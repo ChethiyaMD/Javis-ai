@@ -28,7 +28,7 @@ To embark on your journey with JARVIS, follow these steps:
 Execute the following commands in your terminal to clone the repository and run the program:
 
 ```bash
-git clone https://github.com/BlackTechX011/JARVIS
+git clone https://github.com/ChethiyaMD/Javis-ai.git
 cd JARVIS
 python3 run.py
 ```
